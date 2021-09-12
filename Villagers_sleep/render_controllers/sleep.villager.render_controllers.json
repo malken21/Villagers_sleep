@@ -1,0 +1,24 @@
+{
+    "format_version": "1.17.11",
+    "render_controllers": {
+        "controller.render.villager_v2_sleep": {
+            "arrays": {
+                "textures": {
+                    "Array.sleep": [
+                        "Texture.unskilled",
+                        "Texture.sleep"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Array.sleep[query.is_sleeping]"
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§2§lVillagers_sleep_properly",
+    "description": "§gRender_eyes_correctly",
+    "version": [1, 17, 11],
+    "min_engine_version": [1, 16, 100],
+    "uuid": "9421e203-5da6-4c76-a8d9-7e0a7fa33f32"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "Resource_pack",
+      "version": [1, 0, 0],
+      "uuid": "ae272e6f-3a01-4e90-a1d8-eca7c047f81c"
+    }
+  ]
+}
